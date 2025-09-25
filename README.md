@@ -2,3 +2,4 @@
 
 ### Llistat pel·lícules alumnat
 - [00 Raül](https://www.imdb.com/title/tt0780504/)
+- [12 MJose](https://github.com/MjoseBH/intermodular02)
