@@ -5,5 +5,5 @@
 - [12 MJose](https://mjosebh.github.io)
 - [13 Carlos](https://carvalmul.github.io)
 - [46 Arnau](https://arnaudaw.github.io/)
-- [45 Neil] (https://galan170.github.io)
+- [45 Neil](https://galan170.github.io)
 
